@@ -1,2 +1,2 @@
-Practical question
-by python-code
+Practical questions
+of python class 
